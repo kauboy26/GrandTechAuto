@@ -1,0 +1,277 @@
+1
+Your Bedroom:\nYou just woke up, after a rough night. Your clock shows you that the time is 8:00 AM, and you have hardly two minutes to catch the bus.\nAlso, today is the last day of class, and Professor Rogers had told you last class that there might be a nice bonus today.\nYou're absolutely confused and you're not sure what you want to do. You still need to use the bathroom, or you could try to catch the bus.\nOr just go back to bed and sleep
+use go take brush|bathroom pee poop crap dump teeth bath toilet
+catch run go|bus class
+sleep go back fall|bed sleep asleep
+~
+[2 3 4]
+$
+2
+Your Bathroom:\nNow that you're in here, you answer a call of nature. Your thoughts are coming together. Is the last day of class worth it? Do you really want to go to class?\nYou still may be able to catch the bus.\nOr you could just go back to bed.\nThe weather looks nice. Maybe you could just go outside, and look at the sky.
+catch run go|bus class
+sleep go back|bed sleep
+go look see watch check|sky outside outdoors weather
+~
+[3 4 21]
+$
+3
+Random node, redirects to 5 OR 6
+~
+[5 6]
+$
+4
+Your bedroom (a while later):\nYou're back in the room. You go back to sleep, and this time you want it to be really long, so you play some hypnotic music as you try to sleep. Within no time you're out.\n...\n...\n...\n(a long time later)\nYou open your eyes, and everything around you looks really shiny and metallic. You hear some beeping in the distance. You look out the window, and you see a HUGE desert, with LANDSPEEDERS(?) racing on them.\nThe chip planted in your head while you were asleep by the FIRST ORDER tells you you're in the year 1590338 BC. Your location is the Tatooine.\nYou see a space-time teleportation machine (manufactured by MathWorks, creator of MATLAB) next to you, and the words "SAY SOMETHING ABOUT ME!" are written.
+matlab mathworks|great good awesome brilliant holy wonderful
+matlab mathworks|bad stupid sucks lame crappy horrible terrible sucky crappy
+~
+[1 20]
+$
+5
+The path to your dorm:\nOh crap! You missed the bus. You see it leaving, and you're feeling bad.\nYou walk back towards your dorm, unsure of what to do next.\nYou could go back to bed, but you see a car parked by the dorm, and the keys seem to be in. There is no driver close by.\nMaybe you could "borrow" (steal) the car, and get there on time.\nThat's illegal though, maybe you could just run after the bus, on foot.
+sleep go back|bed sleep
+steal borrow rob hijack|car vehicle
+run foot chase
+~
+[4 7 30]
+$
+6
+Going to class:\nYou managed to get on the bus!\nYou reached your destination. You're in Professor Kantwon's class. There's a clicker question on the board. You must ANSWER it.
+answer
+~
+[50]
+$
+7
+Georgia Tech Auto (GTA) baby!\nYou hop into the car, and hotwire it like you've done it a million times. You jump onto the road like a boss. The traffic light is about to change from yellow to red. You could floor it, or brake.\nYour call, safety first? Or do you want to chase that bus?
+floor accelerate pump speed up chase follow
+brake stop slow halt safety
+~
+[8 8]
+$
+8
+Cop trouble:\nThe cops pull you over. Your adrenaline rush is dying. They must have seen you do something wrong (probably when you jumped on to the road over the median). They're asking you something. You must ANSWER them.
+answer
+~
+[51]
+$
+9
+007\nOfficer: "Nice job kid, I knew you'd make the right choice. That's the way to live. Dial this number, they'll tell you what to do."\nYou're handed a piece of paper, on which the number "0070070007" is written.\nOfficer: "Dial it carefully, if you accidentally enter 007007007 you might be transported to an alternate dimension."
+0070070007
+007007007
+~
+[24 25]
+$
+10
+Smooth criminal\nOfficer: "Aight kid, you're going to jail."\nYou're thrown in jail, but luckily you're in a country with a nice legal system. You could try to contact your lawyers.\nOr you could simply repent and ask for forgiveness.\nOR...\nYou could try to tunnel your way out, with a straw.
+contact talk speak go|lawyers attorney advocate court
+repent remorse forgive forgiveness ask pray
+dig tunnel escape straw
+~
+[26 27 11]
+$
+11
+Dig to Vegas\nYou keep digging, and digging, for a couple of years. You sustain yourself by eating earthworms.\nOne day, all of a sudden, you pop out of the road across the RED DRAGON CASINO. You have a couple of dollars on you (which you found underground). You decide to go to the casino and try your luck. ENTER THE CASINO
+enter in go casino
+~
+[13]
+$
+12
+aYYAyyaI!\nYou got the question wrong!\nYou're feeling really discouraged. You have 6 ideas though, you can still be great!\nYou roll a die to see what you'll do. You look at the die, what does it say?\nSome number from one to six right?
+1 I one
+2 ii two
+3 iii three
+4 iv four
+5 v five
+6 vi six
+~
+[23 31 15 33 34 35]
+$
+13
+You entered the RED DRAGON CASINO, and it's time to place your bet.\nPray for luck and place your bet.
+place bet pray luck gamble
+~
+[61]
+$
+14
+You've placed your bet, now it's time to play 3 SHELLS and 1 PEA.\nYou'll see three red shells moving, once they stop, choose the one under which you think the pea hides.\nStep up to the table and play the game.
+play step game table gamble shell
+~
+[62]
+$
+15
+Karate Kid\nMaybe programming was never your thing.\nKarate? That sounds more like it. You move to China, home of Jackie Chan, to learn from the greatest.\nYou're in a training session with Mr. Chan, when your phone starts ringing.\n Chan's moves are flying at you, but you (being the great person you are) manage to hold him off. (But also remember he's going easy on you.)\nYour phone is still ringing, and you don't know whether to answer the call, or keep fighting.\nMaybe you could act like you're about to answer it, but then turn around and surprise him.\nYou could also ask Mr. Chan to wait for a moment.\nIf you're too scared to do anything, just run away.
+act fake surprise juke
+answer pick phone call
+kick punch keep fight continue
+ask wait please stop
+run scared away
+~
+[36 69 37 38 16]
+$
+16
+Phew!\nYou managed to escape that nutcase.\nWhat were you thinking? Karate? Really? You should've taken something your own level.\nYou fly back to Atlanta, and decide to start playing for the Hawks. After all, basketball is your true talent, right?\nYou need to buy equipment, so you go to the store and start looking for some new kicks.\nThey got Jordan's, Kobe's, Lebron's and Curry's. Which do you want?
+Jordans Jordan
+Kobes kobe
+lebrons lebron
+currys curries curry
+~
+[41 42 43 17]
+$
+17
+Mockingbird\nThe salesman looks at you for a second.\nSalesman: "Wow, that's your choice? Looks like we got another Warriors bandwagon. What a chump. Get outta my store."\nYou're infuriated, and you storm out of the store.\nYou hire a taxi, that takes you back to your dorm.\nYou want to vent your frustration. Your usual go to methods are shouting at passers-by, and cursing at the sky.\nYou could also try something new, like roller-blading.
+people walk pedestrian pedestrians passersby
+sky air
+rollerblading rollerblades try new
+~
+[44 21 32]
+$
+20
+That's wrong!\nThe time machine starts beeping loudly, and you can hear armored feet running towards the door.\nThe door is kicked open, and you're surrounded by storm troopers. The start firing at you, and you die.\nGAME OVER\nTime to exit the game.
+exit quit leave
+~
+[100]
+$
+21
+Unlucky.\nYou were struck by a flying ice cream truck just as you stepped out. Unfortunately, unlike Spongebob, you didn't live. The end.\nGAME OVER\nTime to exit the game.
+exit quit leave
+~
+[100]
+$
+22
+Bingo!\nYou got the question right!\nProfessor Kantown ROGERS: "I am simply dazzled by your devotion. You know so much about MATLAB and your professors. You are my favorite student. Here, take this cheque of a billion dollars and live your life in luxury."\nBeing the obedient student you are, you follow his advice, and move to Miami Beach, FL, where you live with Hassan Whiteside as your neighbor until your death in 2150.\nGAME OVER\nTime to exit the game.
+exit quit leave
+~
+[100]
+$
+23
+You buy a life time supply of granola bars and a heavy duty shovel. You have decided to dig to the center of the Earth. That's your path to greatness.\n...\n...\n...\nAnd you keep digging, until your death in 2150 AD(and 5125 km below the Earth's surface).\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+24
+From Russia With Love\nYou go to Russia, where you meet a sexy Russian spy. You two fall in love, you ditch your mission, and settle in Madagascar.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+25
+Insanity\nNobody knows what happened next. You simply dissappear.\nYou are floating in an alternate universe, and nobody hears from you again. The concept of time doesn't exist. You don't die. You don't live. You simply are.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+26
+SCAMMED\nYou call your lawyers, and they promise to get you out.\nYou give them your bank account number, to pay them. Like a fool, you do so.\nYou lose all your money, and stay in jail. You pass away 50 years later.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+27
+Nice Job!\nYou stay in jail for 25 years, but come out as a new person. After smelling the fresh outside air, you find a job as a clerk. You raise a family and die 50 years later.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+28
+Easy money!\nWow! You won at the casino! You're rich!!!\nYou decide to blow your money gradually, and you have a nice life, until your death 152 years later.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+29
+L for Loser\nYou lose at the casino, and on top of that, the cops found you. You go back to jail, but you write a book on your adventure. The book makes you billions of dollars, and you hire lawyers to get you out. You live in wealth until your death in 2060. \nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+30
+Gold Medal\nYou run after the bus, not paying attention to anything else. Looks like this was your lucky day, because the US Olympic sprint coach happened to be driving on the same street as you, in his beautiful BMW.\nAmazed by your speed, he signs you up for the track team.\n...\n...\n...\nIt's 2064, and you're at the award ceremony of your consecutive 10th gold medal, at the BANGALORE 2064 OLYMPICS.\nYou're rich and satisfied, and you spend the rest of your life retired, until your death in 2101.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+31
+You catch a bus, going to California.\nThere, you inflitrate the Space X headquarters. You hijack one of the spaceships, and fly (somehow) to Dagobah, where you spend your years learning from Yoda.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+32
+You buy a ton of explosives, and strap it to your rollerblades.\nYou build a ramp and a runway leading to it.\nCarefully, you ignite the explosives, speed across the runway, and jump off the ramp!\nYou're in the air, going so fast, that you start orbiting the Earth. You stay in orbit until your death in 2500 AD.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+33
+You extract some Thorium (a radioactive element) from a smoke alarm, and inject it into a spider.\nThe now radioactive spider bites you, and you develope all of Spiderman's powers!\nYou spend the rest of your days as a hero.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+34
+You have a brilliant idea! You decide to patent it!\nUnfortunately, on the way to the office, an earthquake occurs, and you're swallowed into the Earth.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+35
+Your brilliant idea is to do nothing. You simply sit and vegetate for the next 100 years.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+36
+Psych!\nYou fake him out, and catch him off guard. Simply delighted by you, he signs you up for a Karate tournament.\nThe tournament proceeds in the same style as the one in the movie 'The Karate Kid'.\nYou live and die a legend.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+37
+Fighter!\nYou keep fighting, and he's impressed by your determination. He asks you to join him as an instructor at his school, and you spend your days teaching until your death 95 years later.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+38
+Denied\nHe doesn't accept your request, and pushes you to become the greates fighter ever in the process.\nYou become known as "Army Man", because of your ability to defeat a whole army.\nNASA decides to send you to a new planet, and dominate any enemy aliens there. However, you make peace with them instead and live there happily.\nYou don't die because you live of their invention, "Life Juice".\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+39
+Wow!\nThe phone call informs you that you won the lottery! Now that you're rich, you simply retire and live a wealthy life until you die 78 years later.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+40
+Double crossed\nYou try to answer the phone, but Chan hits you from behind. You sue him, and gain all his wealth.\nYou live in his mansion for another 100 years, and then move to another galaxy. I don't know what happens to you after that.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+41
+Number 23!\nThe best shoes of all. Good choice.\nYou try out for the hawks, and become a star.\nYou die in your sleep 99 years later, after winning 19 rings.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+42
+For the win\nYou develop that Mamba Mentality, and start destroying other players. You soon become too great, and you are bribed to stop playing. You accept the bribe, but continue playing.\nYou go on to win 20 championships, after which you are arrested. You spend the rest of your life in prison.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+43
+You go between teams for a while, but in the end you realize the meaning of home. You stick with the Hawks, and bring glory to the city.\nYour fans erect a statue of you next to Wilkin's statue, and your name lives on forever.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+$
+44
+The people beat you up, and you decide to change your face (through surgery) and name. You move somewhere, and nobody hears from you again.\nGAME OVER\nTime to exit the game.
+exit quit
+~
+[100]
+#
+ 
